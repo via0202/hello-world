@@ -1,5 +1,4 @@
-
-**star programming**
+# Python
 
 ## Directory
 
@@ -54,23 +53,23 @@
   - 图结构（邻接矩阵、邻接表）
   
 - 常用模块
- - 日期（date、datetime、calendar）
- - 随机数（random）
- - 绘图（tutle）
- - 数学（math、cmath）
- - IO处理（os、sys、shutil、glob）
- - 图像处理（PIL）
- - 声音播放（winsound、playsound、subprocess)
- - GUI（tkinter)
- - 游戏（pygame）
- - 安装包（PyInstall)
- - 数据库（pymysql)
- - 多线程（threading）
- - 文本处理（pypdf2、csv、docx、xlwings）
- - 文本分析（jieba、NLTK、wordcloud）
- - 数据处理（numpy、pandas、scipy、matplotlib、seaborn）
- - 爬虫及解析（requests、scrapy、pyspider、re、bs4、lxml、goose）
- - Web网站开发（Django、pyramid、flask)
+   - 日期（date、datetime、calendar）
+   - 随机数（random）
+   - 绘图（tutle）
+   - 数学（math、cmath）
+   - IO处理（os、sys、shutil、glob）
+   - 图像处理（PIL）
+   - 声音播放（winsound、playsound、subprocess)
+   - GUI（tkinter)
+   - 游戏（pygame）
+   - 安装包（PyInstall)
+   - 数据库（pymysql)
+   - 多线程（threading）
+   - 文本处理（pypdf2、csv、docx、xlwings）
+   - 文本分析（jieba、NLTK、wordcloud）
+   - 数据处理（numpy、pandas、scipy、matplotlib、seaborn）
+   - 爬虫及解析（requests、scrapy、pyspider、re、bs4、lxml、goose）
+   - Web网站开发（Django、pyramid、flask)
  
 
 
